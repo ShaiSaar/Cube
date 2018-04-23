@@ -1,4 +1,4 @@
-var arr = ['A','B','C','D','E','F'];
+var arr = ['A','B','C',1,2,3];
 
 function cube() {
     var x= Math.round(Math.random()*6);
